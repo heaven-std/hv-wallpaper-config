@@ -1,7 +1,6 @@
 {
   "images": [
     "https://example.com/image1.jpg",
-    "https://example.com/image2.png",
-    "https://example.com/image3.webp"
+    "https://example.com/image2.png"
   ]
 }
