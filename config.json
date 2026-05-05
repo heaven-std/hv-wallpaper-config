@@ -1,7 +1,10 @@
 {
-  "images": [
-    "https://example.com/image1.jpg",
-    "https://example.com/image2.png",
-    "https://example.com/image3.webp"
+  "data": [
+    {
+      "name": "D9695niQ",
+      "previewImageUrl": "https://i.imghippo.com/files/D9695niQ.webp",
+      "categoryWallpaperId": 1,
+      "isPremium": false
+    }
   ]
 }
