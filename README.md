@@ -1,1 +1,1 @@
-# hv-wallpaper-config
+# ads-config-v2
