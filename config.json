@@ -1,5 +1,5 @@
 {
-  "data": [
+  "wallpapers": [
     {
       "name": "abstract_1",
       "previewImageUrl": "https://i.imghippo.com/files/yoh7510nZ.jpg",
@@ -1685,6 +1685,231 @@
       "previewImageUrl": "https://i.imghippo.com/files/FJq1047Es.webp",
       "categoryWallpaperId": 4,
       "isPremium": false
+    }
+  ],
+  "backgrounds": [
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/Mk7264vbo.webp",
+      "category": "Anime"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/EzbC9760Bs.webp",
+      "category": "Anime"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/KmN4305Qzg.webp",
+      "category": "Anime"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/wrd5040PGU.webp",
+      "category": "Anime"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/gepB9019xJk.webp",
+      "category": "Anime"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/Bbyd6942kJM.webp",
+      "category": "Anime"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/PKHW7653Ge.webp",
+      "category": "Cute"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/UFR9215JTg.webp",
+      "category": "Cute"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/mjR2789ZA.webp",
+      "category": "Cute"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/qWrz9710WI.webp",
+      "category": "Cute"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/dPFk3063ms.webp",
+      "category": "Cute"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/bxz5214gdU.webp",
+      "category": "Cute"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/xmGZ2979E.webp",
+      "category": "Fur"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/QGcH6970PC.webp",
+      "category": "Fur"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/jf3008msg.webp",
+      "category": "Fur"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/sX7007AKQ.webp",
+      "category": "Fur"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/ZcS5554VU.webp",
+      "category": "Fur"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/wBFA8685udA.webp",
+      "category": "Fur"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/eBvR4647bdU.webp",
+      "category": "Nature"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/welZ3547EdI.webp",
+      "category": "Nature"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/cwZ1487hE.webp",
+      "category": "Nature"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/uwW6728NIo.webp",
+      "category": "Nature"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/kcBf6415mHU.webp",
+      "category": "Nature"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/uF5571bk.webp",
+      "category": "Nature"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/mEP2708OZA.webp",
+      "category": "Sport"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/rG1292j.webp",
+      "category": "Sport"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/QjK7725nQ.webp",
+      "category": "Sport"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/zkkX1031BXM.webp",
+      "category": "Sport"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/tpF4678rWU.webp",
+      "category": "Sport"
+    },
+    {
+      "backgroundUrl": "https://i.imghippo.com/files/llE5283fs.webp",
+      "category": "Sport"
+    }
+  ],
+  "rows": [
+    {
+      "rowFullUrl": "https://i.imghippo.com/files/CdR2195sns.webp",
+      "rowPreviewUrl": "https://i.imghippo.com/files/Zk1011A.webp",
+      "rowLeftUrl": "https://i.imghippo.com/files/A7328zcY.png",
+      "rowRightUrl": "https://i.imghippo.com/files/Gvih6924RA.png"
+    },
+    {
+      "rowFullUrl": "https://i.imghippo.com/files/IY9864vm.webp",
+      "rowPreviewUrl": "https://i.imghippo.com/files/QO8367Vl.webp",
+      "rowLeftUrl": "https://i.imghippo.com/files/yQp2301oyk.png",
+      "rowRightUrl": "https://i.imghippo.com/files/W9931BL.png"
+    },
+    {
+      "rowFullUrl": "https://i.imghippo.com/files/naX4902HfA.webp",
+      "rowPreviewUrl": "https://i.imghippo.com/files/uL6798kmY.webp",
+      "rowLeftUrl": "https://i.imghippo.com/files/t6976UsA.png",
+      "rowRightUrl": "https://i.imghippo.com/files/slhI6212ds.png"
+    },
+    {
+      "rowFullUrl": "https://i.imghippo.com/files/xfP8210rUE.webp",
+      "rowPreviewUrl": "https://i.imghippo.com/files/louI2222olY.webp",
+      "rowLeftUrl": "https://i.imghippo.com/files/jRm1049DP.png",
+      "rowRightUrl": "https://i.imghippo.com/files/wfT9594wZY.png"
+    },
+    {
+      "rowFullUrl": "https://i.imghippo.com/files/XYQp2022IIQ.webp",
+      "rowPreviewUrl": "https://i.imghippo.com/files/jood3255GtM.webp",
+      "rowLeftUrl": "https://i.imghippo.com/files/Tw5776kE.png",
+      "rowRightUrl": "https://i.imghippo.com/files/XQGl5944g.png"
+    }
+  ],
+  "zippers": [
+    {
+      "zipperUrl": "https://i.imghippo.com/files/W9104ltc.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/QbaQ6064meI.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/BkzL5166M.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/bT9637iIw.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/jtl4857YBg.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/iqbC6801zA.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/nSdZ7436CZY.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/ixPN5934W.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/Mcfd1428kbM.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/QFRS7931Ho.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/eQ6968D.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/CuTr9882qc.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/ctW6503duc.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/Rbd4573ahM.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/ut2249JQ.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/ryL2420wfQ.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/QCxl4792ms.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/vxhU3837vA.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/Jps7010Al.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/oE9762iiw.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/EuZC3539no.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/YFa4350AF.webp"
+    },
+    {
+      "zipperUrl": "https://i.imghippo.com/files/jwk4507ewU.webp"
     }
   ]
 }
